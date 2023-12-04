@@ -1,4 +1,4 @@
-package StudyJAVA;
+package studyJAVA;
 
 public class for_ {
 
