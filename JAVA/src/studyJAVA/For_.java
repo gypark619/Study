@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class for_ {
+public class For_ {
 
 	public static void main(String[] args) {
 		/*

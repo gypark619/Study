@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class class_ {
+public class Class_ {
 
 	public static void main(String[] args) {
 		Account2 acc = new Account2();

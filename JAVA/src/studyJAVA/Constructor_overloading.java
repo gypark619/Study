@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class constructor_overloading {
+public class Constructor_overloading {
 
 	public static void main(String[] args) {
 		MyDate2 d1 = new MyDate2(2023, 12, 4);

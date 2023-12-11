@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class constructor {
+public class Constructor {
 
 	public static void main(String[] args) {
 		// 기본 생성자 호출

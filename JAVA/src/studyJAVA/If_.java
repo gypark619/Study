@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class if_ {
+public class If_ {
 
 	public static void main(String[] args) {
 		// 문자 ch 에 대해 대문자, 소문자, 숫자 판별

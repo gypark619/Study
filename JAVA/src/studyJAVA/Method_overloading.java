@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class method_overloading {
+public class Method_overloading {
 
 	public static void main(String[] args) {
 		Calculator c = new Calculator();

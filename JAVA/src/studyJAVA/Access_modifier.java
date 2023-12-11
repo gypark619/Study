@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class access_modifier {
+public class Access_modifier {
 
 	public static void main(String[] args) {
 		// 은행계좌(Account) 클래스의 인스턴스(acc) 생성

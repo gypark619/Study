@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class method2 {
+public class Method2 {
 	public static void main(String[] args) {
 		
 		/*

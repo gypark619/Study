@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class while_ {
+public class While_ {
 
 	public static void main(String[] args) {
 		/*

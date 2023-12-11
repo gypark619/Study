@@ -1,6 +1,6 @@
 package studyJAVA;
 
-public class switch_ {
+public class Switch_ {
 
 	public static void main(String[] args) {
 		/*
